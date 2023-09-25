@@ -20,7 +20,7 @@ NASAStellar is more than just an app; it's your gateway to the cosmos. Whether y
 
 
 ### Demo
-https://github.com/pranavwaykar/NASA-Stellar/assets/90698028/c1e5c2c4-a875-4c51-a4db-637fbc4b3928
+https://github.com/pranavwaykar/NASA-Stellar/assets/90698028/c789af77-d024-467e-847d-2042e7c3842b
 
 
 
