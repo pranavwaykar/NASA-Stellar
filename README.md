@@ -12,12 +12,19 @@ authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
 
-# Serverless Framework AWS NodeJS Example
+# NASA Stellar
 
-This template demonstrates how to deploy a NodeJS function running on AWS Lambda using the traditional Serverless Framework. The deployed function does not include any event definitions as well as any kind of persistence (database). For more advanced configurations check out the [examples repo](https://github.com/serverless/examples/) which includes integrations with SQS, DynamoDB or examples of functions that are triggered in `cron`-like manner. For details about configuration of specific `events`, please refer to our [documentation](https://www.serverless.com/framework/docs/providers/aws/events/).
+## About
+NASA Stellar is a daily cosmic companion that brings you the wonders of the universe, powered by the NASA API and AWS Serverless Framework. With NASAStellar, you'll receive a daily dose of stellar activities, from awe-inspiring images of distant galaxies to the latest news on celestial events.
+NASAStellar is more than just an app; it's your gateway to the cosmos. Whether you're a seasoned astronomer or just starting your cosmic journey, NASAStellar will inspire and educate you about the wonders of space. It's your daily invitation to explore the mysteries beyond our world, all conveniently delivered to your phone.
+
 
 ## Demo
 https://github.com/pranavwaykar/NASA-Stellar/assets/90698028/02b2afdb-d8c3-4c57-a0dd-0d25f7218a4d
+
+## Serverless Framework AWS NodeJS Example
+This template demonstrates how to deploy a NodeJS function running on AWS Lambda using the traditional Serverless Framework. The deployed function does not include any event definitions as well as any kind of persistence (database). For more advanced configurations check out the [examples repo](https://github.com/serverless/examples/) which includes integrations with SQS, DynamoDB or examples of functions that are triggered in `cron`-like manner. For details about configuration of specific `events`, please refer to our [documentation](https://www.serverless.com/framework/docs/providers/aws/events/).
+
 
 ## Usage
 
