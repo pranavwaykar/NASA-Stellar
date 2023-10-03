@@ -19,11 +19,6 @@ NASA Stellar is a daily cosmic companion that brings you the wonders of the univ
 NASAStellar is more than just an app; it's your gateway to the cosmos. Whether you're a seasoned astronomer or just starting your cosmic journey, NASAStellar will inspire and educate you about the wonders of space. It's your daily invitation to explore the mysteries beyond our world, all conveniently delivered to your phone.
 
 
-### Demo
-https://github.com/pranavwaykar/NASA-Stellar/assets/90698028/c789af77-d024-467e-847d-2042e7c3842b
-
-
-
 ## Serverless Framework AWS NodeJS Example
 This template demonstrates how to deploy a NodeJS function running on AWS Lambda using the traditional Serverless Framework. The deployed function does not include any event definitions as well as any kind of persistence (database). For more advanced configurations check out the [examples repo](https://github.com/serverless/examples/) which includes integrations with SQS, DynamoDB or examples of functions that are triggered in `cron`-like manner. For details about configuration of specific `events`, please refer to our [documentation](https://www.serverless.com/framework/docs/providers/aws/events/).
 
